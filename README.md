@@ -9,3 +9,4 @@ This image is available on [Docker Hub](https://hub.docker.com/r/tetafro/golang-
 | Tag        | Info
 | ---------- | ---
 | 1.8-alpine | Based on Golang 1.8 (Alpine)
+| latest     | Same as 1.8-alpine
