@@ -16,4 +16,5 @@ This image is available on [Docker Hub](https://hub.docker.com/r/tetafro/golang-
 | 1.13-alpine | Based on Golang 1.13 (Alpine)
 | 1.14-alpine | Based on Golang 1.14 (Alpine)
 | 1.15-alpine | Based on Golang 1.15 (Alpine)
-| latest      | Same as 1.15-alpine
+| 1.16-alpine | Based on Golang 1.16 (Alpine)
+| latest      | Same as 1.16-alpine
